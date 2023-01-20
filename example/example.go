@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"k.malhotra.cc/go/nextcloud_authv2/auth"
+	"k.malhotra.cc/go/nextcloud_authv2"
 )
 
 func main() {
